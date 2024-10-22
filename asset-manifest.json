@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tg-copy/static/css/main.c0b5a99c.css",
+    "main.js": "/tg-copy/static/js/main.e89ed9d6.js",
+    "static/media/white_menu.png": "/tg-copy/static/media/white_menu.4318e445f04ffc0bcb01.png",
+    "index.html": "/tg-copy/index.html",
+    "main.c0b5a99c.css.map": "/tg-copy/static/css/main.c0b5a99c.css.map",
+    "main.e89ed9d6.js.map": "/tg-copy/static/js/main.e89ed9d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b5a99c.css",
+    "static/js/main.e89ed9d6.js"
+  ]
+}
